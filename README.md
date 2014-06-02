@@ -2,7 +2,7 @@
 This project aims to create an interactive transit map of Jersey City public transportation from GTFS data.
 Markers denoting transit vehicles are animated along route lines according to their GTFS schedules.
 
-The project was started during the #hackforchange hackathon 2014.
+The project was started during the [#hackforchange](http://hackforchange.org/) hackathon 2014.
 
 The code is essentially a clone of https://github.com/vasile/transit-map, plus GTFS data.
 
