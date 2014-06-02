@@ -25,6 +25,9 @@ Yes, NYC instead of JC. This is because we had the following problems with JC GT
 
 1. we could not get started with this during the hackathon due to the sheer size of the GTFS export (224 MB), but we should try again after filtering out buses that don't stop in JC
 
+2. a required GTFS file, `calendar.txt`, is missing
+     * this file tells us what days of week and during which date window each service is active
+
 #### [NY Waterway](https://github.com/BetaNYC/NY-Waterways-GTFS-data)
 
 1. we used a stale GTFS export (from January 2014) since we could not find anything made available directly by NY Waterway 
